@@ -1,0 +1,20 @@
+--2024-02-13 01:17:53--  https://www.dropbox.com/scl/fi/fvurrof4jajgnwbqdcoyq/weights.pth?rlkey=qvctzj9z0fueqdyvuws4i6knl
+Resolving www.dropbox.com (www.dropbox.com)... 2620:100:6019:18::a27d:412, 162.125.4.18
+Connecting to www.dropbox.com (www.dropbox.com)|2620:100:6019:18::a27d:412|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://uce30a87a7a60f47f2d1f2e96e42.dl.dropboxusercontent.com/cd/0/inline/CNLTNyOBZ2InnZoCk8nkTypYmkHsx_UHxnyA1tUhYhAvkgBlW_QdDv8uhAo6QiMyTyWWUkFgBLQfi8cDnDel1LOySM_fwSUOv-YHLXW3Kj0BR-gm3EtLvqnBG_f3jV5FoSIbpn31jOaUhMKNN9i2_A_P/file# [following]
+--2024-02-13 01:17:53--  https://uce30a87a7a60f47f2d1f2e96e42.dl.dropboxusercontent.com/cd/0/inline/CNLTNyOBZ2InnZoCk8nkTypYmkHsx_UHxnyA1tUhYhAvkgBlW_QdDv8uhAo6QiMyTyWWUkFgBLQfi8cDnDel1LOySM_fwSUOv-YHLXW3Kj0BR-gm3EtLvqnBG_f3jV5FoSIbpn31jOaUhMKNN9i2_A_P/file
+Resolving uce30a87a7a60f47f2d1f2e96e42.dl.dropboxusercontent.com (uce30a87a7a60f47f2d1f2e96e42.dl.dropboxusercontent.com)... 2620:100:6019:15::a27d:40f, 162.125.4.15
+Connecting to uce30a87a7a60f47f2d1f2e96e42.dl.dropboxusercontent.com (uce30a87a7a60f47f2d1f2e96e42.dl.dropboxusercontent.com)|2620:100:6019:15::a27d:40f|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /cd/0/inline2/CNJVe9ryzeyBUOYc7SEdbPHjmRkLtTjXuU6h8RgbdyX8BBBRsQsXqQLFP3hF1whAYv-3bjhpXVw4zEcR-_dFXaeoeAROtzF_hWjquP5ZDmvfYXggSeypTqkyZ0NbiKZVcOwgiU22T1msmiCmkMv3yGo4UtLZzxaSm4Kj0cyoNC0OHXB3-AWzpIVviinWd0KPOdMsowfHwl7wDTvL6NYCmgtYlIeE-UsfYImddp635EO8QsGYfkOe_vl9W1Zx0M4jCjM7U55xj_v-ignmwbt5lWWfoUL8xd21MVH7VEX0SPb2jX_LVJI-EiBdcE5YiAPtmBN9Y7Qn6FZd18ezpOUqxlivxhwnBWgoHFK0tJU3hYythv1TW2D2Y9-B18nCMNVN4Aw/file [following]
+--2024-02-13 01:17:54--  https://uce30a87a7a60f47f2d1f2e96e42.dl.dropboxusercontent.com/cd/0/inline2/CNJVe9ryzeyBUOYc7SEdbPHjmRkLtTjXuU6h8RgbdyX8BBBRsQsXqQLFP3hF1whAYv-3bjhpXVw4zEcR-_dFXaeoeAROtzF_hWjquP5ZDmvfYXggSeypTqkyZ0NbiKZVcOwgiU22T1msmiCmkMv3yGo4UtLZzxaSm4Kj0cyoNC0OHXB3-AWzpIVviinWd0KPOdMsowfHwl7wDTvL6NYCmgtYlIeE-UsfYImddp635EO8QsGYfkOe_vl9W1Zx0M4jCjM7U55xj_v-ignmwbt5lWWfoUL8xd21MVH7VEX0SPb2jX_LVJI-EiBdcE5YiAPtmBN9Y7Qn6FZd18ezpOUqxlivxhwnBWgoHFK0tJU3hYythv1TW2D2Y9-B18nCMNVN4Aw/file
+Reusing existing connection to [uce30a87a7a60f47f2d1f2e96e42.dl.dropboxusercontent.com]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 53830557 (51M) [application/octet-stream]
+Saving to: ‘weights.pth?rlkey=qvctzj9z0fueqdyvuws4i6knl’
+
+            weights.pth   0%[                                ]       0  --.-KB/s                          weights.pth?   7%[=>                              ]   3.82M  19.1MB/s                         weights.pth?r  24%[======>                         ]  12.79M  31.9MB/s                        weights.pth?rl  47%[==============>                 ]  24.49M  40.8MB/s                       weights.pth?rlk  73%[======================>         ]  37.88M  47.3MB/s                      weights.pth?rlke  98%[==============================> ]  50.76M  50.5MB/s               weights.pth?rlkey=qvctz 100%[===============================>]  51.34M  50.6MB/s    in 1.0s    
+
+2024-02-13 01:17:56 (50.6 MB/s) - ‘weights.pth?rlkey=qvctzj9z0fueqdyvuws4i6knl’ saved [53830557/53830557]
+
